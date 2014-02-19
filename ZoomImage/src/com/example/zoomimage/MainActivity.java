@@ -21,7 +21,7 @@ import android.widget.ImageView;
  */
 public class MainActivity extends Activity {
 	 /**
-	 * check current animation .....kaka
+	 * check current animation..haha
 	 */
 	private Animator mCurrentAnimator;
 	    private int mShortAnimationDuration;
