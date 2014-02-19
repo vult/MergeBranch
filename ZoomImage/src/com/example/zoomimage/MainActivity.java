@@ -15,8 +15,15 @@ import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.ImageView;
 
+/**
+ * @author vult
+ *
+ */
 public class MainActivity extends Activity {
-	 private Animator mCurrentAnimator;
+	 /**
+	 * check current animation
+	 */
+	private Animator mCurrentAnimator;
 	    private int mShortAnimationDuration;
 	 
 	    @Override

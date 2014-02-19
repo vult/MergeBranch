@@ -44,7 +44,6 @@ public class TouchHighlightImageButton extends ImageButton{
 	    protected void drawableStateChanged() {
 	        super.drawableStateChanged();
 	 
-	        // Update the state of the highlight drawable to match
 	        // the state of the button.
 	        if (mForgroundDrawable.isStateful()) {
 	            mForgroundDrawable.setState(getDrawableState());
