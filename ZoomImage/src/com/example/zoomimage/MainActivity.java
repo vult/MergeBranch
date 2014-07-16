@@ -21,7 +21,7 @@ import android.widget.ImageView;
  */
 public class MainActivity extends Activity {
 	 /**
-	 * check current FT
+	 * check current This is FT
 	 */
 	private Animator mCurrentAnimator;
 	    private int mShortAnimationDuration;
