@@ -12,6 +12,9 @@ public class TouchHighlightImageButton extends ImageButton{
 	private Drawable mForgroundDrawable;
 	  private Rect mCachedBounds = new Rect();
 
+	  
+	  
+	  // New changing
 	public TouchHighlightImageButton(Context context) {
 		super(context);
 		init();
